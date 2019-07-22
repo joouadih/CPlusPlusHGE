@@ -3,6 +3,8 @@ A C++ project with HGE Engine, which can be used as a template
 
 ![hge_logo](https://user-images.githubusercontent.com/4427332/61538243-43458c80-aa39-11e9-9430-ded433b4a98d.png)
 
+HGE Link: https://kvakvs.github.io/hge/
+
 # Paddle Game
 A simple paddle game using HGE Engine & TinyXML as XML parser
 
