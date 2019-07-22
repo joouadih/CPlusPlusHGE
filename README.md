@@ -21,5 +21,8 @@ Update function where all Game logic happens.
 ## Render
 Sprite render function. 
 
+## XML Config
+XML as config is used to demostrate how easy it is, config file is located at /Pong_XML/XML/config.xml
+
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/4427332/61539124-12665700-aa3b-11e9-98db-53879265e00e.png)
