@@ -1,0 +1,5 @@
+<root>
+  <gameBackground file="pics/Background.png"/>
+  <ball file="pics/ball.png" speed="400" speedIncrease="50"/>
+  <paddle file="pics/paddle.png" speed="850"/>
+</root>
